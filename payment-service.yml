@@ -2,5 +2,5 @@ spring:
   application:
     name: payment-service
 server:
-  port: 9009
+  port: 9091
   message: hello
